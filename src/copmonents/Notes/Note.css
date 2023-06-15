@@ -1,0 +1,44 @@
+textarea{
+   border: 1px solid #38598b;
+   background-color: #c4c1e046;
+   border-radius: 10px;
+   padding: 15px;
+   font-size: 20px;
+}
+
+.but-add{
+   background-color: #38598b;
+   border: none;
+   color: #fff;
+   font-size: 30px;
+   font-weight: 600;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   padding: 10px;
+   margin-left: 20px;
+   height: 70px;
+
+}
+
+.add-note{
+   display: flex;
+   text-align: center;
+}
+
+.li-but{
+   border: 1px solid #38598b;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   border-radius: 50px;
+   list-style: none;
+   width: 50px;
+   height: 50px;
+   margin: 5px;
+}
+
+.ul-item{
+   display: flex;
+}
+
+.optionChage{
+   text-align: left;
+}
